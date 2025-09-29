@@ -4,3 +4,9 @@
 #Ignore all db files
 
 *.db
+
+#Ignore virtual environments
+
+ven/
+venv/
+.venv/
