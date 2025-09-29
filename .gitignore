@@ -1,2 +1,6 @@
 #Ignore all CSV files
 *.csv
+
+#Ignore all db files
+
+*.db
